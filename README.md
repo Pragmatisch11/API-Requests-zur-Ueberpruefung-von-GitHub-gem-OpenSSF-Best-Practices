@@ -3,5 +3,5 @@ Dieses Repository ist im Zuge einer kleinen Seminararbeit an der FOM zum Thema "
 
 Es umfasst eine Excel-Datei sowie einen PDF-Export mit einer Auflistung von API-Requests und -Responses zur Überprüfung von GitHub als exemplarischen SaaS-Service hinsichtlich OpenSSF-Best-Practices (vgl. https://best.openssf.org/SCM-BestPractices/github/).
 
-Modul:		Security Analytics & Defense
+Modul:		Security Analytics & Defense,
 Autor: 		Nils Lorenz 
